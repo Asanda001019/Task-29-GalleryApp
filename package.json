@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "react-native-image-picker": "^7.2.3",
+    "react-native-image-slider": "^2.0.3",
+    "react-native-image-zoom-viewer": "^3.0.1",
+    "react-native-reanimated": "^3.16.7",
+    "react-native-snap-carousel": "^3.9.1",
+    "react-native-toast-message": "^2.2.1"
+  }
+}
